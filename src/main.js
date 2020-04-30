@@ -6,7 +6,7 @@ import 'ant-design-vue/dist/antd.css';
 
 Vue.use(Antd);
 Vue.config.productionTip = false
-
+let a=1;
 new Vue({
   render: h => h(App),
 }).$mount('#app')
