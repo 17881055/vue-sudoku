@@ -11,3 +11,5 @@ let b=3;
 new Vue({
   render: h => h(App),
 }).$mount('#app')
+
+let b=2;
